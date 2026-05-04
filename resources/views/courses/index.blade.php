@@ -40,7 +40,7 @@
 
         @foreach($myCourses as $course)
             <h3>{{ $course->name }}</h3>
-            <p>Joined ✅</p>
+            <p>Joined </p>
             <hr>
         @endforeach
 

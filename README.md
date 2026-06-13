@@ -7,18 +7,29 @@ GroupHup is a web-based system built using Laravel Framework to help instructors
 The system allows:
 
 Instructors to create courses and divide them into sections
+
 Students to join courses and be assigned to groups
+
 Flexible group formation methods:
+
 Manual
 Student choice
 Random generation
+
 👨‍🏫 Instructor Features
+
 Create and manage courses
+
 Add sections to each course
+
 Define group size (min/max students)
+
 View all students and groups inside each course
+
 Generate random groups automatically
+
 Generate detailed reports for each course
+
 Manage notifications 
 
 👩‍🎓 Student Features

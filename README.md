@@ -19,7 +19,8 @@ Define group size (min/max students)
 View all students and groups inside each course
 Generate random groups automatically
 Generate detailed reports for each course
-Manage notifications
+Manage notifications 
+
 👩‍🎓 Student Features
 View enrolled courses
 View and join available groups
@@ -64,6 +65,7 @@ MySQL Database
 Blade Templates
 HTML / CSS / JavaScript
 Eloquent ORM
-🚀 Project Goal
 
+🚀 Project Goal
+The goal of GroupHup is to simplify group management in academic environments and reduce manual work for instructors while giving students flexibility in group participation.
 The goal of GroupHup is to simplify group management in academic environments and reduce manual work for instructors while giving students flexibility in group participation.

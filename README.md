@@ -34,19 +34,33 @@ Manage notifications
 
 👩‍🎓 Student Features
 View enrolled courses
+
 View and join available groups
+
 Create groups (if allowed by section rules)
+
 Leave groups (based on rules)
+
 See group members and details
+
 Receive notifications when:
+
 joining a group
+
 being added to a group
+
 creating a group
+
 ⚙️ Key System Logic
+
 Each course contains multiple sections
+
 Each section has its own group rules
+
 Students can belong to only one group per section
+
 Many-to-many relationships are used:
+
 course_user
 section_user
 group_user

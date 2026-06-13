@@ -62,35 +62,54 @@ Students can belong to only one group per section
 Many-to-many relationships are used:
 
 course_user
+
 section_user
+
 group_user
+
 Random group generation automatically distributes students evenly
 🗄️ Database Design (Important)
 
 Main tables:
 
 users
+
 courses
+
 sections
+
 groups
+
 course_user (pivot)
+
 section_user (pivot)
+
 group_user (pivot)
+
 notifications
 🔔 Notifications System
 
 The system automatically sends notifications when:
 
 A group is created
+
 A student joins or leaves a group
+
 A student is added to a group by instructor
+
 🧠 Technologies Used
+
 Laravel (PHP Framework)
+
 MySQL Database
+
 Blade Templates
+
 HTML / CSS / JavaScript
+
 Eloquent ORM
 
 🚀 Project Goal
+
 The goal of GroupHup is to simplify group management in academic environments and reduce manual work for instructors while giving students flexibility in group participation.
 The goal of GroupHup is to simplify group management in academic environments and reduce manual work for instructors while giving students flexibility in group participation.
